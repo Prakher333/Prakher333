@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakher Dwivedi</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | AI/ML Enthusiast | Mining Engineering Student at NIT Raipur
+Aspiring Data Analyst | AI/ML Enthusiast |  Student at NIT Raipur
 </h3>
 
 <p align="center">
