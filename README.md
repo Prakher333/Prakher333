@@ -100,29 +100,6 @@ Proudly authored and published the research paper:
 - 🚀 Top 3 Finish in Dev Clash 2026 Hackathon with Team Invincible
 - 🏅 Finalist (Top 100) – Execute 4.0 Hackathon at Delhi Technological University
 - 💡 Solved 50+ SQL problems involving joins, subqueries, aggregate functions, and window functions
-- ♟️ Regional Level Chess Competition Winner
-
----
-
-# 📚 Education
-
-🎓 **National Institute of Technology, Raipur**  
-Bachelor of Technology in Mining Engineering  
-CGPA: **7.97**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prakher333&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakher333&theme=tokyonight"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
