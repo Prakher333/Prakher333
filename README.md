@@ -242,31 +242,6 @@ Built a spam classification application using a Naive Bayes model with **98% rep
 
 ---
 
-## 💼 Experience
-
-### Industrial Trainee — MOIL Limited, Balaghat
-
-*May – June 2026*
-
-- Gained practical exposure to underground manganese mining operations.
-- Learned about mine ventilation, transportation systems, surveying, drilling and blasting, and mining safety protocols.
-
----
-
-## 🎓 Education
-
-### National Institute of Technology (NIT), Raipur
-
-**B.Tech in Mining Engineering** | Expected Graduation: 2027
-
-- CGPA: **7.94/10**
-
-**Senior Secondary (CBSE)** — 2022 | 85.6%
-
-**Secondary (CBSE)** — 2020 | 85.8%
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
