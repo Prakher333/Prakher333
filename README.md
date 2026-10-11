@@ -1,296 +1,390 @@
+```markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1E1B4B,100:0E7490&height=230&section=header&text=Prakher%20Dwivedi&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20AI%20%2F%20ML%20%7C%20Generative%20AI&descSize=17&descColor=A5F3FC&descAlignY=60&animation=fadeIn" alt="Prakher Dwivedi - Data Analytics, Business Intelligence, AI/ML, Generative AI"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,35:312E81,70:7C3AED,100:06B6D4&height=240&section=header&text=PRAKHER%20DWIVEDI&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20ANALYTICS%20%20%7C%20%20BUSINESS%20INTELLIGENCE%20%20%7C%20%20AI%2FML%20%20%7C%20%20GENAI&descSize=15&descColor=C4B5FD&descAlignY=58&animation=fadeIn" alt="Prakher Dwivedi Profile Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&height=40&lines=Turning+data+into+decisions;Dashboards%2C+ML+models+and+RAG+systems;Mining+engineering+%C3%97+data+science;IEEE+author+%E2%80%A2+Dev+Clash+2026+winner" alt="Animated tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=45&lines=Turning+Data+into+Actionable+Insights;Building+Intelligent+Analytics+Solutions;Exploring+Machine+Learning+%26+Generative+AI;Mining+Engineering+%C3%97+Data+Science" alt="Animated profile tagline"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/prakher-dwivedi-a51995318/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:prakherdwivedi21@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://ieeexplore.ieee.org/document/11265485"><img src="https://img.shields.io/badge/IEEE%20Xplore-Research%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore paper"/></a>
+<a href="mailto:prakherdwivedi21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Prakher333"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://ieeexplore.ieee.org/document/11265485"><img src="https://img.shields.io/badge/IEEE-Xplore-0891B2?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/></a>
 
-<img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20%C2%B7%20BI%20Analyst%20%C2%B7%20AI%2FML%20roles-16A34A?style=flat-square" alt="Open to Data Analyst, BI Analyst and AI/ML roles"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🟢_OPEN_TO_OPPORTUNITIES-Data_Analyst_•_BI_Analyst_•_AI%2FML-166534?style=for-the-badge" alt="Open to opportunities"/>
 
 </div>
 
-<br/>
+---
 
-<table align="center" width="100%">
+## 👋 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated data and technology workspace"/>
+
+I'm a **B.Tech Mining Engineering student at NIT Raipur (Class of 2027)** passionate about using data and AI to solve real-world problems.
+
+My interests span **Data Analytics, Business Intelligence, Machine Learning, NLP and Generative AI**. I enjoy exploring datasets, discovering patterns, developing dashboards and building AI-powered solutions.
+
+What makes my journey different is the combination of **mining engineering domain knowledge and data-driven problem solving** — from mineral identification using computer vision to intelligent document analysis with RAG.
+
+- 🎓 B.Tech Mining Engineering — NIT Raipur
+- 📍 Raipur, India
+- 📊 Focus: Data Analytics & Business Intelligence
+- 🤖 Exploring: Machine Learning, NLP & Generative AI
+- 📚 Co-author of an IEEE Xplore research paper
+- 🏆 Hackathon winner with an AI-powered learning platform
+
+<div align="center">
+
+**Analyze · Build · Deploy · Improve**
+
+</div>
+
+<br clear="right"/>
+
+---
+
+## ✨ Highlights
+
+<div align="center">
+
+<table>
 <tr>
 <td align="center" width="25%">
-<h3>IEEE Xplore</h3>
-<b>Published co-author</b><br/>
-<sub>CISES 2025</sub>
+
+<img src="https://img.icons8.com/fluency/96/certificate.png" width="48" alt="Research"/>
+
+### IEEE Xplore
+
+Research Co-author
+
+CISES 2025
+
 </td>
 <td align="center" width="25%">
-<h3>Winner</h3>
-<b>Dev Clash 2026</b><br/>
-<sub>PrepPro · Team Invincible</sub>
+
+<img src="https://img.icons8.com/fluency/96/trophy.png" width="48" alt="Trophy"/>
+
+### Winner
+
+Dev Clash 2026
+
+PrepPro · Team Invincible
+
 </td>
 <td align="center" width="25%">
-<h3>Top 100</h3>
-<b>Execute 4.0, DTU</b><br/>
-<sub>Hackathon finalist</sub>
+
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="48" alt="Hackathon"/>
+
+### Top 100
+
+Execute 4.0 · DTU
+
+Hackathon Finalist
+
 </td>
 <td align="center" width="25%">
-<h3>100+</h3>
-<b>SQL problems</b><br/>
-<sub>Solved</sub>
+
+<img src="https://img.icons8.com/fluency/96/sql.png" width="48" alt="SQL"/>
+
+### 100+
+
+SQL Problems
+
+Solved
+
 </td>
 </tr>
 </table>
 
+</div>
+
+---
+
+## 🧠 Skills & Technologies
+
+<div align="center">
+
+### 📊 Data Analytics & Business Intelligence
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark" alt="Python, MySQL and PostgreSQL"/>
+
 <br/>
 
-<h2 align="center">About</h2>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-2563EB?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-0F766E?style=for-the-badge" alt="Seaborn"/>
 
-```python
-class Prakher:
-    name      = "Prakher Dwivedi"
-    education = "B.Tech Mining Engineering, NIT Raipur (Class of 2027)"
-    location  = "Raipur, India"
-    focus     = ["Data Analytics", "Business Intelligence", "Machine Learning", "Generative AI"]
-    edge      = "Mining and geology domain context, applied with analytics and AI"
-    seeking   = ["Data Analyst", "BI Analyst", "Business Analyst", "Analytics Intern", "Entry-level AI/ML"]
-    motto     = "Analyze • Build • Deploy"
+`SQL` · `DAX` · `Power Query` · `EDA` · `Data Cleaning` · `Data Transformation` · `KPI Reporting` · `Statistical Analysis` · `Hypothesis Testing` · `Dashboard Development`
+
+<br/>
+
+### 🤖 Machine Learning & Data Science
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow and Scikit-learn"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-15803D?style=for-the-badge" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/SHAP-0F766E?style=for-the-badge" alt="SHAP"/>
+<img src="https://img.shields.io/badge/YOLOv11-7C3AED?style=for-the-badge" alt="YOLOv11"/>
+
+`Feature Engineering` · `Classification` · `Model Evaluation` · `Computer Vision` · `Data Augmentation` · `Model Explainability`
+
+<br/>
+
+### 🧬 NLP & Generative AI
+
+<img src="https://skillicons.dev/icons?i=huggingface&theme=dark" alt="Hugging Face"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge" alt="NLP"/>
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/FAISS-0891B2?style=for-the-badge" alt="FAISS"/>
+<img src="https://img.shields.io/badge/SentenceTransformers-0F766E?style=for-the-badge" alt="Sentence Transformers"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+
+`Semantic Search` · `Embeddings` · `Vector Search` · `Retrieval-Augmented Generation`
+
+<br/>
+
+### 📈 Supporting Tools
+
+<img src="https://skillicons.dev/icons?i=jupyter,git,github&theme=dark" alt="Jupyter, Git and GitHub"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Prakher333/rag-document-ai-assistant">
+<img src="https://img.shields.io/badge/01-MineQuery-6D28D9?style=for-the-badge" alt="MineQuery"/>
+</a>
+<a href="https://github.com/Prakher333/Customer-Analytics-Marketing-Campaign-Optimization">
+<img src="https://img.shields.io/badge/02-Customer%20Analytics-0891B2?style=for-the-badge" alt="Customer Analytics"/>
+</a>
+<a href="https://github.com/Prakher333/banking-customer-portfolio-analysis">
+<img src="https://img.shields.io/badge/03-Banking%20Analytics-0F766E?style=for-the-badge" alt="Banking Analytics"/>
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Prakher333/rag-document-ai-assistant">
+<img src="https://placehold.co/640x300/10172A/22D3EE?text=MineQuery%20%7C%20Document%20AI" width="100%" alt="MineQuery document analytics project"/>
+</a>
+
+### 🔎 MineQuery
+
+**Intelligent Document Analytics System**
+
+Built a RAG-based system to extract insights from **500+ pages of technical documents** using semantic search, SentenceTransformers, FAISS and the Gemini API.
+
+`Python` `RAG` `FAISS` `Gemini API`
+
+<a href="https://github.com/Prakher333/rag-document-ai-assistant"><img src="https://img.shields.io/badge/Explore%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore MineQuery"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Prakher333/Customer-Analytics-Marketing-Campaign-Optimization">
+<img src="https://placehold.co/640x300/10172A/38BDF8?text=Customer%20Analytics%20%7C%20ML" width="100%" alt="Customer analytics project preview"/>
+</a>
+
+### 📈 Customer Analytics
+
+**Marketing Campaign Optimization**
+
+Analyzed **2,240+ customer records** to investigate customer segments and campaign drivers. Used statistical hypothesis testing and built an XGBoost model achieving **0.865 ROC-AUC**, with SHAP explainability.
+
+`Python` `Statistics` `XGBoost` `SHAP`
+
+<a href="https://github.com/Prakher333/Customer-Analytics-Marketing-Campaign-Optimization"><img src="https://img.shields.io/badge/Explore%20Project-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Customer Analytics"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Prakher333/banking-customer-portfolio-analysis">
+<img src="https://placehold.co/640x300/10172A/34D399?text=Banking%20%7C%20Power%20BI" width="100%" alt="Banking portfolio dashboard preview"/>
+</a>
+
+### 🏦 Banking Portfolio Analysis
+
+**Lending Performance Dashboard**
+
+Analyzed **3,000 customer records**, deposits of 3.7 billion and a loan portfolio of 4.3 billion. Designed a star-schema model and **15+ DAX measures** for portfolio trends and customer risk analysis.
+
+`SQL` `Power BI` `DAX` `Python`
+
+<a href="https://github.com/Prakher333/banking-customer-portfolio-analysis"><img src="https://img.shields.io/badge/Explore%20Project-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore Banking Analytics"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Prakher333/Mineral-Identification">
+<img src="https://placehold.co/640x300/10172A/A78BFA?text=DeepOre%20AI%20%7C%20Mineral%20Vision" width="100%" alt="DeepOre AI mineral identification preview"/>
+</a>
+
+### ⛏️ DeepOre AI
+
+**Mineral Identification with Computer Vision**
+
+Applied **YOLOv11s** and image augmentation techniques to mineral identification, connecting computer vision with mining and geology.
+
+`Python` `YOLOv11s` `Computer Vision`
+
+<a href="https://github.com/Prakher333/Mineral-Identification"><img src="https://img.shields.io/badge/Explore%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore DeepOre AI"/></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<a href="https://github.com/Prakher333/Spam-Scanner">
+<img src="https://placehold.co/1200x240/10172A/F472B6?text=Spam%20Scanner%20%7C%20Text%20Classification" width="100%" alt="Spam Scanner project preview"/>
+</a>
+
+### 🛡️ Spam Scanner
+
+Built a spam classification application using a Naive Bayes model with **98% reported accuracy**. Connected the model to a FastAPI backend and a simple web interface.
+
+`Python` `Naive Bayes` `Text Classification` `FastAPI`
+
+<a href="https://github.com/Prakher333/Spam-Scanner"><img src="https://img.shields.io/badge/Explore%20Project-D946EF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Spam Scanner"/></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Research & Publication
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
+
+### A Deep Learning Model for Mineral Identification
+
+**3rd International Conference on Intelligent and Secure Engineering Solutions (CISES 2025)**
+
+📅 11–13 August 2025
+
+Co-authored research on applying deep learning to mineral identification.
+
+<a href="https://ieeexplore.ieee.org/document/11265485">
+<img src="https://img.shields.io/badge/Read%20Research%20Paper-IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Read research paper"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🥇 Dev Clash 2026 — Winner**
+
+Built PrepPro, an AI-powered learning platform with Team Invincible.
+
+**📄 IEEE Xplore — Research Co-author**
+
+Co-authored a paper on deep learning for mineral identification.
+
+**⛏️ Best Trainee**
+
+Recognized for AI/ML innovations in Geology and Water Resources.
+
+</td>
+<td width="50%" valign="top">
+
+**🚀 Execute 4.0, DTU**
+
+Hackathon finalist among the top 100 teams.
+
+**💻 SQL Practice**
+
+Solved 100+ SQL problems.
+
+**🎓 NIT Raipur**
+
+B.Tech in Mining Engineering, Class of 2027.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prakher333&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Prakher333&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakher333&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prakher333&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Prakher333&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=35&lines=Open+to+Data+Analytics+Opportunities;Interested+in+BI%2C+ML+and+AI+Projects;Always+Learning.+Always+Building." alt="Animated career interests"/>
+
+I'm interested in opportunities where I can use **data, analytics and AI** to solve meaningful problems.
+
+<a href="https://www.linkedin.com/in/prakher-dwivedi-a51995318/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:prakherdwivedi21@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+<a href="https://github.com/Prakher333"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!**
+
+⭐ Explore my repositories, share feedback and connect with me.
+
+**Analyze · Build · Deploy**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:080B18&height=120&section=footer" alt="Animated-style profile footer"/>
 ```
-
-I'm a **Mining Engineering student at NIT Raipur** who turns data into decisions. I use **Python, SQL and Power BI** to build analyses and dashboards, and I work on **machine learning, NLP and Generative AI**.
-
-My edge is **domain context**. I understand the industrial side of mining and geology, and I apply analytics and AI to it, from **mineral identification with computer vision** to **document intelligence with RAG**.
-
-<br/>
-
-<h2 align="center">Skills</h2>
-
-<table width="100%">
-<tr>
-<td width="24%" valign="middle"><b>Data Analytics<br/>& Business Intelligence</b></td>
-<td width="76%">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,powerbi,pandas,numpy,matplotlib&perline=7&theme=dark" alt="Python, MySQL, PostgreSQL, Power BI, Pandas, NumPy, Matplotlib"/>
-
-`SQL` `Excel` `DAX` `Power Query` `Seaborn`<br/>
-<sub>EDA · Data cleaning · Data transformation · Statistical analysis · Hypothesis testing · KPI reporting · Dashboard development</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>Machine Learning<br/>& Data Science</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&perline=3&theme=dark" alt="Scikit-learn, PyTorch, TensorFlow"/>
-
-`XGBoost` `YOLO` `SHAP`<br/>
-<sub>Feature engineering · Classification · Model evaluation · Computer vision</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>NLP<br/>& Generative AI</b></td>
-<td>
-
-`NLP` `RAG` `SentenceTransformers` `FAISS` `Gemini API`<br/>
-<sub>Semantic search · Retrieval-augmented generation</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>Supporting Tools</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,fastapi&perline=5&theme=dark" alt="Git, GitHub, Jupyter, VS Code, FastAPI"/>
-
-`Streamlit`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h2 align="center">Featured Projects</h2>
-
-<table width="100%">
-<tr>
-<td width="22%" align="center" valign="middle">
-<h2>500+</h2>
-<sub>pages of technical<br/>documents</sub>
-</td>
-<td width="78%" valign="top">
-
-### MineQuery
-*Intelligent document analytics with RAG*
-
-- **Problem:** extracting insights from large volumes of technical documents.
-- **Approach:** semantic search with **SentenceTransformers** and **FAISS**, with the **Gemini API** generating context-aware responses.
-- **Outcome:** a document assistant covering **500+ pages** of technical material.
-
-`Python` `RAG` `FAISS` `SentenceTransformers` `Gemini API`
-
-[View repository →](https://github.com/Prakher333/rag-document-ai-assistant)
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<h2>0.865</h2>
-<sub>ROC-AUC</sub>
-</td>
-<td valign="top">
-
-### Customer Analytics & Marketing Campaign Optimization
-*Segmentation, hypothesis testing and explainable prediction*
-
-- **Problem:** identifying customer segments and campaign drivers across **2,240+ customer records**.
-- **Approach:** feature engineering, **t-tests and Chi-square tests**, then an **XGBoost** model.
-- **Outcome:** **0.865 ROC-AUC**, with **SHAP**-based explainability of the drivers.
-
-`Python` `Pandas` `Hypothesis Testing` `XGBoost` `SHAP`
-
-[View repository →](https://github.com/Prakher333/Customer-Analytics-Marketing-Campaign-Optimization)
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<h2>3,000</h2>
-<sub>customer records</sub>
-</td>
-<td valign="top">
-
-### Banking Customer Portfolio & Lending Performance Analysis
-*Power BI dashboard on a star-schema model*
-
-- **Problem:** understanding lending performance, portfolio trends and customer risk categories.
-- **Approach:** a **star-schema** data model with **15+ DAX measures**, built on SQL, Python and Pandas preparation.
-- **Outcome:** an interactive **Power BI** dashboard over **3.7 billion in deposits** and a **4.3 billion loan portfolio**.
-
-`SQL` `Python` `Power BI` `DAX` `Pandas`
-
-[View repository →](https://github.com/Prakher333/banking-customer-portfolio-analysis)
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<h2>YOLOv11s</h2>
-<sub>computer vision</sub>
-</td>
-<td valign="top">
-
-### DeepOre AI
-*Mineral identification with deep learning*
-
-- **Problem:** identifying minerals from images.
-- **Approach:** a **YOLOv11s** model with image augmentation.
-- **Outcome:** applies computer vision to mining and geology, linking AI/ML with my engineering background.
-
-`Python` `YOLOv11` `Computer Vision` `Deep Learning`
-
-[View repository →](https://github.com/Prakher333/Mineral-Identification)
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<h2>98%</h2>
-<sub>reported accuracy</sub>
-</td>
-<td valign="top">
-
-### Spam Scanner
-*End-to-end spam classification app*
-
-- **Problem:** classifying messages as spam or not spam.
-- **Approach:** a **Naive Bayes** model served through a **FastAPI** backend, with an HTML, CSS and JavaScript frontend.
-- **Outcome:** **98% reported accuracy**.
-
-`Python` `Naive Bayes` `FastAPI`
-
-[View repository →](https://github.com/Prakher333/Spam-Scanner)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h2 align="center">Recognition & Research</h2>
-
-<table width="100%">
-<tr>
-<td width="30%" valign="top"><b>IEEE Xplore</b></td>
-<td width="70%" valign="top">
-
-Co-authored **[A Deep Learning Model for Mineral Identification](https://ieeexplore.ieee.org/document/11265485)**<br/>
-<sub>CISES 2025, 3rd International Conference on Intelligent and Secure Engineering Solutions · 11–13 August 2025 · Among the top 8% of submissions (240 of 3,000+)</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Dev Clash 2026</b></td>
-<td valign="top">
-
-**Winner** with Team Invincible, for **PrepPro**, an AI-powered learning platform.
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Execute 4.0, DTU</b></td>
-<td valign="top">
-
-**Finalist**, among the top 100 teams.
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Best Trainee</b></td>
-<td valign="top">
-
-Recognized for AI/ML innovations in **Geology and Water Resources**.
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>SQL Practice</b></td>
-<td valign="top">
-
-Solved **100+ SQL problems**.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h2 align="center">GitHub Activity</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prakher333&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Prakher333&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prakher333&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
-<br/>
-
-<h2 align="center">Let's Connect</h2>
-
-<div align="center">
-
-I'm open to **Data Analyst, BI Analyst and AI/ML roles**, and to collaborations on data and AI projects.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/prakher-dwivedi-a51995318/"><img src="https://img.shields.io/badge/LinkedIn-Prakher%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:prakherdwivedi21@gmail.com"><img src="https://img.shields.io/badge/Email-prakherdwivedi21%40gmail.com-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=A5F3FC&center=true&vCenter=true&width=600&height=35&lines=Analyze+%E2%80%A2+Build+%E2%80%A2+Deploy;Thanks+for+visiting+my+profile" alt="Closing tagline"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:1E1B4B,100:0B1020&height=110&section=footer&text=%C2%A9%202026%20Prakher%20Dwivedi&fontSize=15&fontColor=FFFFFF&fontAlignY=70" alt="Footer"/>
