@@ -41,7 +41,7 @@ My mining and geology background helps me explore how data and AI can be applied
 | Research | Competition | Hackathon | SQL |
 |:---|:---|:---|:---|
 | **IEEE Xplore** | **Winner** | **Top 100** | **100+** |
-| Research co-author | Dev Clash 2026 | Execute 4.0, DTU | Problems practised |
+| Research author | Dev Clash 2026 | Execute 4.0, DTU | Problems practised |
  
 ---
 
